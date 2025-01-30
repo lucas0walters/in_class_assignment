@@ -7,7 +7,7 @@ if (expenses > 7000) {
     console.log("Managable expenses");
 };
 
-//Practice Problem 2 - 3 min
+// Task 2 - Practice Problem 2 - 3 min
 
 let score = 70;
 if (score >= 60) {
@@ -16,3 +16,13 @@ if (score >= 60) {
     console.log("Failed");
 };
 
+// Task 3 - Practice Problem 3
+
+//for (let i = 10; i >= 
+
+//
+let i = 0
+while (i <= 10) {
+    console.log(i * 2)
+    i++
+}
