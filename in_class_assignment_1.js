@@ -26,3 +26,9 @@ while (i <= 10) {
     console.log(i * 2)
     i++
 }
+
+//Task 5
+function caluclateSquare(num) {
+    return num*num
+}
+console.log(num)
